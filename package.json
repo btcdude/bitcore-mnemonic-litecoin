@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-mnemonic",
+  "name": "bitcore-mnemonic-litecoin",
   "version": "1.1.1",
   "description": "BIP39 Mnemonics implemented for Bitcore.",
   "author": "BitPay <dev@bitpay.com>",
@@ -18,10 +18,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-mnemonic.git"
+    "url": "https://github.com/btcdude/bitcore-mnemonic-litecoin.git"
   },
   "keywords": [
-    "bitcoin",
+    "litecoin",
     "bitcore",
     "mnemonic",
     "crypto",
@@ -38,7 +38,7 @@
     "mocha": "^2.2.5"
   },
   "dependencies": {
-    "bitcore-lib": "^0.13.7",
+    "bitcore-lib-litecoin": "^0.13.7",
     "bitcore-litecoin": "^0.8.5",
     "unorm": "^1.3.3"
   }
